@@ -1,0 +1,11 @@
+OrderID,Category,Sales,Quantity,Profit
+1001,Electronics,25000,2,5000
+1002,Clothing,5000,5,1200
+1003,Grocery,3000,10,600
+1004,Electronics,18000,1,3500
+1005,Furniture,12000,2,2500
+1006,Clothing,7000,4,1500
+1007,Grocery,4500,8,900
+1008,Furniture,15000,3,3200
+1009,Electronics,22000,2,4500
+1010,Clothing,6500,6,1300
